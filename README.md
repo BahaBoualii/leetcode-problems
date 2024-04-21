@@ -1,3 +1,3 @@
-This repository contains my solutions to various LeetCode problems. Each problem is solved using Python.
+This repository contains my solutions to various LeetCode problems.
 
 Feel free to check out my LeetCode profile: [https://leetcode.com/na7nou7/]
